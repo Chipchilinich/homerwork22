@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "hoemerwork22"
+name = "sqlproject"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <zingorskiy@gmail.ru>"]
+authors = ["maksbolomoznov <bolomozhnov@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
